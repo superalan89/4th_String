@@ -119,6 +119,10 @@ public int[] getLottoNumbers() {
 
 **아나그램이란** : Anagram 일종의 말장난으로 어떠한 단어의 문자를 재배열하여 다른 뜻을 가지는 다른 단어로 바꾸는 것을 말한다 (출저 : 나무위키)
 
+![Alt text](https://github.com/superalan89/4th_String/blob/master//img/Anagram.png)
+
+
+
 **아나그램 활용예시**) <br>
 두개의 문자열 입력을 받아서 두개의 관계가 아나그램 관계인지 확인하는 프로그램을 개발
 
